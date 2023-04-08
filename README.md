@@ -1,6 +1,7 @@
 # 🤖 Reporter
 - 🔥This is a script to report unethical channels or channels that don't follow Telegram rules.
 - ⚡️ [click here for connect to author](https://t.me/ixAmirCom)
+- ⚠️ We are not responsible for how you use this script.
 
 [راهنمای فارسی](https://github.com/ixAmirCom/Reporter/blob/main/lan/README.fa.md)
 
