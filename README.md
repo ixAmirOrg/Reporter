@@ -32,10 +32,10 @@ Go to the ` TexoReporter.py ` file :
  - ⚜ `pip install colorama`
  - ⚜ `pip install asyncio`
 
-- 4️⃣ Now that all the prerequisites are installed, we need to locate the file in memory and run it.
+- 4️⃣ Now that all the prerequisites are installed, we need to locate the file in memory and run it. Note that you will encounter an error if Termux does not have access to memory.
  
- - :recycle:️ cd /sdcard
- - :recycle:️ ls
- - :recycle:️ cd download
- - :recycle:️ ls
- - :recycle:️ python TexoReporter.py
+ - :recycle:️ `cd /sdcard`
+ - :recycle:️ `ls`
+ - :recycle:️ `cd download`
+ - :recycle:️ `ls`
+ - :recycle:️ `python TexoReporter.py`
