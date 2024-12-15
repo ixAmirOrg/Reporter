@@ -4,7 +4,7 @@
 # | \ \/ /  / _ \ | '_ ` _ \| | '__| | | | '__/ _` |
 # | |>  <  / ___ \| | | | | | | |  | |_| | | | (_| |
 # |_/_/\_\/_/   \_\_| |_| |_|_|_|   \___/|_|  \__, |
-#                                             |___/  on GitHub : https://github.com/ixAmirOrg 
+#                                             |___/  on GitHub : https://github.com/ixAmirOrg
 #############################################################################################
 
 from telethon import TelegramClient
@@ -119,7 +119,7 @@ async def main():
         a = await client(functions.messages.ReportRequest(
             peer='@'+username,
             id=[int(message_id)],
-            reason=rsn,
+            option='',
             message = msg
         ))
         b = await client(functions.account.ReportPeerRequest(
