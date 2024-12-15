@@ -17,3 +17,4 @@ Go to the ` TexoReporter.py ` file :
  - ❗ colorama
  - ❗ asyncio 
 
+## 🔎 How To Use :
