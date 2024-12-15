@@ -41,3 +41,16 @@ Go to the ` TexoReporter.py ` file :
  - :recycle:️ `python TexoReporter.py`
 
 <b> 💻 on Linux : </b>
+- 1️⃣ Open Terminal
+- 2️⃣ Enter the following commands in order in Terminal :
+- ⚜ `sudo apt update`
+- ⚜ `sudo apt install python`
+- ⚜ `pip install telethon`
+- ⚜ `pip install requests`
+- ⚜ `pip install colorama`
+- ⚜ `pip install asyncio`
+- :recycle:️ `cd /path/to/your/file`
+- :recycle:️ `ls`
+- :recycle:️ `cd download`
+- :recycle:️ `ls`
+- :recycle:️ `python TexoReporter.py`
