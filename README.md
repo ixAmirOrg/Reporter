@@ -19,4 +19,4 @@ Go to the ` TexoReporter.py ` file :
 
 ## 🔎 How To Use :
 in Android :
-- Download Termux ( [Play Store](https://play.google.com/store/apps/details?id=com.termux&hl=en&pli=1) or ... )
+- Download Termux ( From [Play Store](https://play.google.com/store/apps/details?id=com.termux&hl=en&pli=1) or ... )
