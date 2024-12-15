@@ -19,9 +19,10 @@ Go to the ` TexoReporter.py ` file :
 
 ## 🔎 How To Use :
 in Android :
-- Download Termux ( From [Termux official website](https://termux.dev/en/) or [Play Store](https://play.google.com/store/apps/details?id=com.termux&hl=en&pli=1) )
-- Enable memory access for Termux
-- Enter the following commands in order in Termux :
+- 1️⃣ Download Termux ( From [Termux official website](https://termux.dev/en/) or [Play Store](https://play.google.com/store/apps/details?id=com.termux&hl=en&pli=1) )
+- 2️⃣ Enable memory access for Termux
+- 3️⃣ Enter the following commands in order in Termux :
+ 
  - ⚜ apt update 
  - ⚜ apt upgrade
  - ⚜ pkg install python
@@ -30,7 +31,7 @@ in Android :
  - ⚜ pip install colorama
  - ⚜ pip install asyncio
 
- Now that all the prerequisites are installed, we need to locate the file in memory and run it.
+- 4️⃣ Now that all the prerequisites are installed, we need to locate the file in memory and run it.
  
  - :recycle:️ cd /sdcard
  - :recycle:️ ls
