@@ -24,13 +24,13 @@ Go to the ` TexoReporter.py ` file :
 - 2️⃣ Enable memory access for Termux
 - 3️⃣ Enter the following commands in order in Termux :
  
- - ⚜ `apt update`
- - ⚜ `apt upgrade`
- - ⚜ pkg install python
- - ⚜ pip install telethon
- - ⚜ pip install requests
- - ⚜ pip install colorama
- - ⚜ pip install asyncio
+ -  `apt update`
+ -  `apt upgrade`
+ -  `pkg install python`
+ -  `pip install telethon`
+ -  `pip install requests`
+ -  `pip install colorama`
+ -  `pip install asyncio`
 
 - 4️⃣ Now that all the prerequisites are installed, we need to locate the file in memory and run it.
  
