@@ -24,8 +24,8 @@ Go to the ` TexoReporter.py ` file :
 - 2️⃣ Enable memory access for Termux
 - 3️⃣ Enter the following commands in order in Termux :
  
- - ⚜ 'apt update'
- - ⚜ 'apt upgrade'
+ - ⚜ `apt update`
+ - ⚜ `apt upgrade`
  - ⚜ pkg install python
  - ⚜ pip install telethon
  - ⚜ pip install requests
