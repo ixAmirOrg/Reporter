@@ -19,7 +19,8 @@ Go to the ` TexoReporter.py ` file :
 
 ## 🔎 How To Use :
 📱 in Android :
------------------------------------------
+
+
 - 1️⃣ Download Termux ( From [Termux official website](https://termux.dev/en/) or [Play Store](https://play.google.com/store/apps/details?id=com.termux&hl=en&pli=1) )
 - 2️⃣ Enable memory access for Termux
 - 3️⃣ Enter the following commands in order in Termux :
