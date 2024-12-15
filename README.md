@@ -40,4 +40,4 @@ Go to the ` TexoReporter.py ` file :
  - :recycle:️ `ls`
  - :recycle:️ `python TexoReporter.py`
 
-<bold> 💻 on Linux : </bold>
+<b> 💻 on Linux : </b>
